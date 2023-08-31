@@ -40,3 +40,8 @@ It includes files that start a period character.
 ## 12-file_type
 This script prints the type of the file named 'iamfile' in the '/tmp' directory when executed.
 The ouput will varry depending on the content and format of the file.
+
+## 13-sybolic link
+This script creates a symbolic link named '__ls__' in the current working directory, which points to '/bin/ls'
+
+## 14-copy_html_files 
