@@ -22,4 +22,8 @@ This script displays the current directory contents in long format with user gro
 This script creates a directory named 'my_first_directory' in '/tmp/' directory.
 
 ## 7-movethatfile
-This script moves the file named 'betty' from the '/tmp/' directory to the '/tmp/my_first_directory/' directory
+This script moves the file named 'betty' from the '/tmp/' directory to the '/tmp/my_first_directory/' directory.
+
+## 8-firstdelete
+This script delete the file named 'betty' from '/tmp/my_first_directory/' directory
+
