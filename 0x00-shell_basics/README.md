@@ -27,3 +27,16 @@ This script moves the file named 'betty' from the '/tmp/' directory to the '/tmp
 ## 8-firstdelete
 This script delete the file named 'betty' from '/tmp/my_first_directory/' directory
 
+## 9-firstdirdeletion
+This script deletes the directory named 'my_first_directory' from the directory named 'tmp'
+
+## 10-back
+THis scripts change the working directory to the previous one.
+
+## 11-lists
+This script lists all files in the current directory, the parent of the working directory, and the '/boot' directory in long format.
+It includes files that start a period character.
+
+## 12-file_type
+This script prints the type of the file named 'iamfile' in the '/tmp' directory when executed.
+The ouput will varry depending on the content and format of the file.
