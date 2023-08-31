@@ -44,4 +44,6 @@ The ouput will varry depending on the content and format of the file.
 ## 13-sybolic link
 This script creates a symbolic link named '__ls__' in the current working directory, which points to '/bin/ls'
 
-## 14-copy_html_files 
+## 14-copy_html_files
+This script copies HTML files from the current working directory to thr parent of the working directory.
+It only copies files that that does not exist in the parent directory. 
