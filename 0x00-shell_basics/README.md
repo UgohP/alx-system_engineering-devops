@@ -7,3 +7,6 @@ This script displays the content using the 'ls' command.
 
 ## 2-bring_me_home
 This script changes the working directory to the user's home directory.
+
+## 3-listfiles
+This script displays the content of the current directory in a long format, providing detailed information about each file and directory.
