@@ -47,3 +47,22 @@ This script creates a symbolic link named '__ls__' in the current working direct
 ## 14-copy_html
 This script copies HTML files from the current working directory to thr parent of the working directory.
 It only copies files that that does not exist in the parent directory. 
+
+## 100-lets_move
+This script moves all files beginning with an uppercase letter to the directory '/tmp/u'.
+
+## 101-clean_emacs
+This script deletes all files in the current working directory that end with the character '~'.
+
+## 102-tree
+This script create a script that creates the directories 'welcome/' , 'welcome/to/' and 'welcome/to/school' in the current directory.
+
+##103-commas
+This scripts lists all the files and directories of the current directory, separated by commas (,).
+. The directory names school end with a slash (/)
+. Files and directories starting with a dot (.) should be listed
+. The listing should be alpha ordered except for the directories . and .. should be listed at the very beginning
+. Only digits and letters are used to sort; digits should come first
+
+## school.mgc
+Creates a magic file 'school.mgc' that can be used with command 'file' to detect 'School' data files. 'School' data files always contain the string 'SCHOOL at offset 0.
